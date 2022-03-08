@@ -1,6 +1,6 @@
 {
-    "brand": "BMW",
-    "model": "3 Series",
+    "brand": ["BMW"],
+    "model": ["3 Series"],
     "colours": ["Blazing Red", "Glassy Silver","Matte Black","Silky White"],
     "specs":[{"cc":"2000","power":"250 bhp","torque":"250 Nm"}]
   }
